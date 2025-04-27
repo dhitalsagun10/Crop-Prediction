@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:/Users/Acer/cps_venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "C:/Users/Acer/cps_venv/Lib/site-packages",
+        "C:/xampp/htdocs/Crop Prediction System",
+        "C:/xampp/htdocs/Crop Prediction System/backend"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:/xampp/htdocs/Crop Prediction System",
+        "C:/xampp/htdocs/Crop Prediction System/backend"
+    ],
+    "python.analysis.importFormat": "absolute"
+}

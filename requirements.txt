@@ -1,0 +1,5 @@
+# requirements.txt
+flask
+sqlite3
+pandas
+scikit-learn  # or your ML model requirements
